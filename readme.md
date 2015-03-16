@@ -2,9 +2,9 @@
 
 [Available on the Play Store](https://play.google.com/store/apps/details?id=com.meigwilym.ycodwrcanu)!
 
-## App syml sy'n rhestr caneuon ac emynau poblogaidd Cymreig.
+## App syml sy'n rhestru caneuon ac emynau poblogaidd Cymreig.
 
-Yn dilyn buddugoliaeth tim rygbi Cymru yn y 6 Gwlad yn 2012, roedd tipyn o ganu yn Nhafarn y Fic, Felinheli. Yn fuan iawn roeddem wedi can'r rhai poblogaidd, a lawr i'r caneuon lle nad oedd pawb yn gwybod y geiriau.
+Yn dilyn buddugoliaeth tim rygbi Cymru yn y 6 Gwlad yn 2012, roedd tipyn o ganu yn Nhafarn y Fic, Felinheli. Yn fuan iawn roeddem wedi canu'r rhai poblogaidd, a lawr i'r caneuon lle nad oedd pawb yn gwybod y geiriau. Ciw lot o gwglo a chwilio am 3G i lawrlwytho'r geiriau. 
 
 Daeth y syniad i mi felly i greu app sydd yn rhestr pob math o ganeuon ac emynau Cymreig sydd yn addas i'w canu mewn sefyllfa debyg. Mae hefyd cwpwl o'r Iwerddon a'r Alban.
 
@@ -12,9 +12,9 @@ Mae hwn yn fersiwn android o'r rhestr sydd ar gael ar [canu.gwilym.net](http://c
 
 ## A simple app listing popular Welsh songs and hymns.
 
-Following the Welsh rugby team's victory in the 2012 6 Nations, there was quite some singing in the Fic, Felinheli pub. The popular songs were soon finished and we were on to the less well-known songs, to which not everybody knew the words.
+Following the Welsh rugby team's victory in the 2012 6 Nations, there was quite some singing in the Fic, Felinheli pub. The popular songs were soon finished and we were on to the less well-known songs, to which not everybody knew the words. Cue much googling and searching for 3G as we all looked for the words online. 
 
-So the idea came to me to create this simple app, listing all kinds of Welsh songs and hymns for similar situations. I've also thrown in a few Irish and Scottish ones too.
+So the idea came to me to create this simple app, listing all kinds of Welsh songs and hymns for similar situations. I've also thrown in a few Irish and Scottish ones too. 
 
 This is an androis version of the list available on [canu.gwilym.net](http://canu.gwilym.net/).
 
