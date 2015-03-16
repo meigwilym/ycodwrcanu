@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Y Codwr Canu</string>
+
+    <string name="action_about">Credits</string>
+    <string name="title_activity_credit">Credits</string>
+    <string name="title_activity_song">SongActivity</string>
+
+    <string name="about_cy">Gwnaed yng Nghymru gan
+    appelgar.com\n\n
+        <b>@appelgar</b>
+    </string>
+
+    <string name="about_en">Made in Wales by
+    appelgar.com\n\n
+        <b>@appelgar</b>
+    </string>
+
+</resources>
