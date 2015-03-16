@@ -26,4 +26,12 @@ It's built using the V7 Appcompat libraries.
 
 I already had the database so I installed it using Jeff Gilfelt's [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper).
 
+## Feature Roadmap
+
+See the [project managment list on Trello](https://trello.com/b/DAU3gdMI/y-codwr-canu).
+
+* Play mp3 files for the hymns
+* Tagging and searching
+* Favourites
+
 Comments? Suggestions? I'm on twitter [http://twitter.com/meilyrg](@meilyrg).
